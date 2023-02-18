@@ -1,0 +1,44 @@
+
+
+p,h1{
+ font-family: 'Mitr', sans-serif;
+ text-align: center;
+ margin: auto;
+}
+
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+  
+body{
+  background-color:#fdfdfd;
+  text-align: center;
+  margin: auto;
+}
+hr{
+background-color:rgb(6, 248, 216);
+  border-style: dotted none none;
+   width: 50%;
+   margin: auto;
+   
+}
+h2,h4,h6 {
+    text-align: center;
+   color:42855B;
+  margin: 0;
+}
+
+    table,td,tr{
+        margin: 0 auto;
+      }
+      .center-ol {
+        width: 50%;
+        margin: auto;
+        text-align: center;
+      }
+      
+      
